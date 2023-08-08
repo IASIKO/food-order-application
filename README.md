@@ -26,6 +26,8 @@ Locally scopes styles to prevent conflicts and ensure isolation.
 useReducer:
 Manages complex state changes with a structured approach.
 
+Error and Loading functionality.
+
 Order functionality for user.
 
 Validation for Forms:
