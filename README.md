@@ -33,6 +33,8 @@ Order functionality for user.
 Validation for Forms:
 Ensures user input adheres to specified criteria, reducing errors.
 
+Responsive Design: We've implemented a responsive design approach to ensure that the website looks and functions well across various devices, including desktops, tablets, and smartphones.
+
 
 ## Installation
 
