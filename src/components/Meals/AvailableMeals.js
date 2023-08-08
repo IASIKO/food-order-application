@@ -13,7 +13,7 @@ const AvailableMeals = () => {
     setIsError(null)
     try {
       const response = await fetch(
-        "https://custom-hooks-32624-default-rtdb.firebaseio.com/meals.json"
+        "https://udemy-http-893e6-default-rtdb.firebaseio.com/meals.json"
       );
 
       if (!response.ok) {
