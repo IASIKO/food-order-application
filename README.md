@@ -1,4 +1,4 @@
-# food-order-app-master
+# food-order-application
 
 Welcome to the Food Order App repository! This repository contains the source code for a food ordering application developed by [Giorgi Iaseshvli].
 
@@ -6,7 +6,12 @@ Welcome to the Food Order App repository! This repository contains the source co
 
 The Food Order App is  an innovative food ordering application built using React.js. Whether you're craving a quick snack or a hearty meal, 
 Food-order-app provides a seamless and user-friendly experience for ordering your favorite dishes. With powerful features like real-time updates, 
-flexible state management, and integration with Firebase APIs, food-order-app transforms your food ordering process into a delightful journey.
+flexible state management, and integration with Firebase APIs, food-order-application transforms your food ordering process into a delightful journey.
+
+## Live deployment link
+
+[Food order app](https://iasiko.github.io/food-order-application/)
+
 ## Features
 
 useContext:
@@ -21,8 +26,14 @@ Locally scopes styles to prevent conflicts and ensure isolation.
 useReducer:
 Manages complex state changes with a structured approach.
 
+Error and Loading functionality.
+
+Order functionality for user.
+
 Validation for Forms:
 Ensures user input adheres to specified criteria, reducing errors.
+
+Responsive Design: We've implemented a responsive design approach to ensure that the website looks and functions well across various devices, including desktops, tablets, and smartphones.
 
 
 ## Installation
