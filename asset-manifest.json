@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/food-order-application/static/css/main.f604e7e4.css",
-    "main.js": "/food-order-application/static/js/main.d6092b34.js",
-    "static/media/meals.jpg": "/food-order-application/static/media/meals.2971f633fc1382581cbf.jpg",
+    "main.css": "/food-order-application/static/css/main.f38da938.css",
+    "main.js": "/food-order-application/static/js/main.a6f7ca15.js",
+    "static/media/PCA-Delivery-hero.jpg": "/food-order-application/static/media/PCA-Delivery-hero.1aafbbd70e30ed2315f3.jpg",
     "index.html": "/food-order-application/index.html",
-    "main.f604e7e4.css.map": "/food-order-application/static/css/main.f604e7e4.css.map",
-    "main.d6092b34.js.map": "/food-order-application/static/js/main.d6092b34.js.map"
+    "main.f38da938.css.map": "/food-order-application/static/css/main.f38da938.css.map",
+    "main.a6f7ca15.js.map": "/food-order-application/static/js/main.a6f7ca15.js.map"
   },
   "entrypoints": [
-    "static/css/main.f604e7e4.css",
-    "static/js/main.d6092b34.js"
+    "static/css/main.f38da938.css",
+    "static/js/main.a6f7ca15.js"
   ]
 }
